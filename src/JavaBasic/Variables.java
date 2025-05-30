@@ -25,7 +25,7 @@ public class Variables {
 		num = 65;
 		System.out.println("New Number: "+ num);
 		
-		//Make sure to have the f at the end.
+		//Make sure to have the f at the end. Unique name like floatingNum here is called identifiers.
 		float floatingNum = 64.99f;
 		System.out.println("Float: "+ floatingNum);
 		
@@ -45,6 +45,17 @@ public class Variables {
 		int numTwo = 5;
 		int addNum = num + numTwo;
 		System.out.println("Total: "+addNum);
+		
+		
+		//Assigning multiple value in one line
+		int a,b,c;
+		a=b=c= 64;
+		
+		System.out.println("A="+a+" B="+b+" C="+c);
+		
+		/**
+		 * All data types use here are primitive
+		 */
 		
 		
 	}
