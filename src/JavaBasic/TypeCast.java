@@ -6,6 +6,8 @@
 package JavaBasic;
 
 /**
+ * Level 4
+ * 
  * This class explain about Type Casting.
  * Type casting is when you assign a value 
  * of one primitive data type to another type. 

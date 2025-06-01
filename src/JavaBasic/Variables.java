@@ -5,7 +5,8 @@
  */
 package JavaBasic;
 
-/*
+/*Level 3
+ * 
  * This class will be all about variables
  * Variables are containers for storing data and values
  */

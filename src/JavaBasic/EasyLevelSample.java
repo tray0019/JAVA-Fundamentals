@@ -1,7 +1,7 @@
 package JavaBasic;
 
-
-/*
+/*Level 2
+ * 
  * This class code a simple program of a combination of variables, data type and simple syntax.  
  * This class program a student records with different data types;
  * 

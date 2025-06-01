@@ -29,6 +29,7 @@ public class Main {
 		System.out.println("Print: "+ 64);
 		//It works with other arithmetic operator 
 		System.out.println(64 + 6);
+				
 	
 	}
 	
