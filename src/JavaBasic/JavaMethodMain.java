@@ -86,7 +86,8 @@ public class JavaMethodMain {
 		//Or store it in a variable
 		int c = methodSix(1,64);
 		System.out.println("6: Stored in variable c: "+c);
-			
+		
+		
 
 	}
 
