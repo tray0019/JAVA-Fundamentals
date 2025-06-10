@@ -29,6 +29,15 @@ public class Main {
 		//Print out constructor
 		System.out.println(fcObject.b);
 		
+		/*
+		 * Encapsulation Example		
+		 */
+		
+		Encapsulation encapSample = new Encapsulation();
+		encapSample.setStudentName("Saitama");
+		
+		System.out.println("6. Student Name: "+encapSample.getStudentName());
+		
 	}
 
 }
