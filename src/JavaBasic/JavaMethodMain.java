@@ -60,6 +60,10 @@ public class JavaMethodMain {
 		return (int)(a*b);
 	}
 	
+	public void testMethod() {
+		System.out.println("Hello World");
+	}
+	
 	public static void main(String[] args) {
 		
 		methodOne();

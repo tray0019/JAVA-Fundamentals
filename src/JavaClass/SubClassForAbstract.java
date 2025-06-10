@@ -11,6 +11,7 @@ public class SubClassForAbstract extends Modifiers {
 	@Override
 	public void myAbstractSample() {
 		// TODO Auto-generated method stub
+		System.out.println("Abstract class override!.");
 		
 	}
 
