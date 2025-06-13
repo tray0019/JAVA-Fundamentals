@@ -38,6 +38,15 @@ public class Main {
 		
 		System.out.println("6. Student Name: "+encapSample.getStudentName());
 		
+		/*
+		 * InnerClass Example
+		 */
+		OuterClass myOuter = new OuterClass();
+		OuterClass.InnerClass myInner = myOuter.new InnerClass();
+		System.out.println("7. "+myInner.innerClass + myOuter.OuterClass);
+		
+		
+		
 	}
 
 }

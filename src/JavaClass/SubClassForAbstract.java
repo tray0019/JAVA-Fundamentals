@@ -1,3 +1,8 @@
+/**
+ * @author Rustom Trayvilla
+ * @since June 10, 1995
+ * @version 1.0
+ */
 package JavaClass;
 
 /*
@@ -10,7 +15,7 @@ public class SubClassForAbstract extends Modifiers {
 	 */
 	@Override
 	public void myAbstractSample() {
-		// TODO Auto-generated method stub
+		
 		System.out.println("Abstract class override!.");
 		
 	}
