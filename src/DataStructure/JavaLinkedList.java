@@ -1,6 +1,6 @@
 /**
  * @author Rustom Trayvilla
- * @since June 15, 1995
+ * @since June 15-16, 1995
  * @version 1.0
  */
 package DataStructure;
@@ -21,6 +21,34 @@ public class JavaLinkedList {
 		cars.add("Honda");
 		
 		System.out.println(cars);
+		
+		/*
+		 * Methods for LinkedList are:
+		 */
+		
+		/*
+		 * addFirst();
+		 */
+		cars.addFirst("Added at first Index");
+		System.out.println(cars);
+		
+		/*
+		 * addLast();
+		 */
+		cars.addLast("Added at last index");
+		System.out.println(cars);
+		
+		/*
+		 * and removeFirst() or removeLastI()
+		 */
+		
+		/*
+		 * Retrieving first or last would be. 
+		 * getFirst and get Last
+		 */
+		
+		System.out.println(cars.getFirst());
+		
 		
 
 	}
