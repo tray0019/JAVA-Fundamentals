@@ -12,6 +12,7 @@ A collection of beginner to advance level Java programs demonstrating core conce
 - Data types
 - Conditional Statements
 - Loops and methods
+- Exceptions
 - OOP concepts: classes, objects, inheritance, encapsulation
 - Data Structures
 
