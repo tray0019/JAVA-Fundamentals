@@ -1,4 +1,6 @@
 # Java Fundamentals
+![Java](https://img.shields.io/badge/Java-21-blue)
+![Eclipse](https://img.shields.io/badge/IDE-Eclipse-purple)
 
 A collection of beginner to advance level Java programs demonstrating core concepts.
 
@@ -16,7 +18,3 @@ A collection of beginner to advance level Java programs demonstrating core conce
 - OOP concepts: classes, objects, inheritance, encapsulation
 - Data Structures
 
-# Technologies
-- Java 21
-- Git & GitHub
-- Eclipse
